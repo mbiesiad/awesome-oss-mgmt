@@ -1,4 +1,4 @@
-# Awesome OSS Management - Lista niesamowitych narzędzi do zarządzania programami Open Source [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Lista niesamowitych narzędzi do zarządzania programami Open Source - Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Ta lista zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
 
