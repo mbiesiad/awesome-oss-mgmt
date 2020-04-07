@@ -1,9 +1,9 @@
-# Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome OSS Management - Niesamowite zarządzanie oprogramowaniem typu Open Source [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Ta lista identyfikuje pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
+Ta lista zebrała w sobie pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
 
-## Contents
-* [Code Reviews](#code-reviews)
+## Zawartość
+* [Code Reviews - Przegląd kodu](#code-reviews-przegląd-kodu)
 * [Contributor License Agreements](#contributor-license-agreements)
 * [GitHub Metrics and Dashboards](#github-metrics-and-dashboards)
 * [GitHub Management](#github-management)
@@ -11,53 +11,53 @@ Ta lista identyfikuje pakiety i projekty, które zostały zbudowane przez człon
 * [Supply Chain Trust](#supply-chain-trust)
 * [Licensing](#licensing)
 * [Localization and Internationalization](#localization-and-internationalization)
-* [Websites and Documentation](#websites-and-documentation)
-* [License](#license)
-* [Security](#security)
+* [Strony i dokumentacja](#strony-i-dokumentacja)
+* [Licencja](#licencja)
+* [Bezpieczeństwo](#bezpieczeństwo)
 
 
-## Code Reviews
+## Code Reviews - Przegląd kodu
 
-- [mention-bot](https://github.com/facebookarchive/mention-bot) - The mention bot will automatically mention potential reviewers on pull requests. It helps getting faster turnaround on pull requests by involving the right people early on.
-- [PullApprove](https://www.pullapprove.com) - Allows for fancier rules on how pull requests are approved.
-- [sentinel](https://github.com/habitat-sh/sentinel) - PR Test, review, and merge workflow bot
-- [pull-review](https://github.com/imsky/pull-review) - assign pull request reviewers intelligently, inspired by mention-bot
-- [pull-request-size](https://github.com/noqcks/pull-request-size) - Automatically adds GitHub labels based on the size of a Pull Request.
-- [Pullie](https://github.com/godaddy/pullie) - GitHub App that helps with PRs: requests reviews, links Jira tickets, nags for missing required file changes (e.g. changelog entries)
+- [mention-bot](https://github.com/facebookarchive/mention-bot) - wspomniany bot automatycznie wspomina o potencjalnych recenzentach przy pull requestach. Pomaga uzyskać szybszą realizację pull requestów, angażując odpowiednie osoby wcześnie.
+- [PullApprove](https://www.pullapprove.com) - pozwala na bardziej wyrafinowane reguły zatwierdzania pull requestów.
+- [sentinel](https://github.com/habitat-sh/sentinel) - bot pod PR Test, review oraz merge workflow
+- [pull-review](https://github.com/imsky/pull-review) - inteligentnie przypisuj recenzentów pull requestów, zainspirowany przez mention-bot
+- [pull-request-size](https://github.com/noqcks/pull-request-size) - automatycznie dodaje etykiety GitHub na podstawie rozmiaru pull requesta.
+- [Pullie](https://github.com/godaddy/pullie) - GitHub App która pomaga w PR: żąda recenzji, łączy tickety Jira, daje znać gdy brakuje wymaganych zmian w plików (np. wpisy dziennika zmian, changelog'a)
 
 ## Contributor License Agreements
 
-- [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
-- [DCOB](https://github.com/chef/dcob) - A bot for enforcing developer certificate of origin sign-offs for each commit in a PR
-- [CLA Portal](https://github.com/vmware/claportal) - Enables a workflow for contributors to sign a CLA for pull requests to your GitHub repositories. Also supports DCO sign-offs in the commits.
-- [OSS Contribution Tracker](https://github.com/amzn/oss-contribution-tracker) - Track contributions made to external projects and manage CLAs
-- [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot for dealing with Contributor License Agreements
+- [CLA Assistant](https://github.com/cla-assistant/cla-assistant) - Usprawnij przepływ pracy i pozwól asystentowi CLA zająć się prawną stroną wkładów do repozytorium. Asystent CLA umożliwia współtwórcom podpisywanie umów CLA z poziomu pull request.
+- [DCOB](https://github.com/chef/dcob) - Bot do wymuszania podpisania certyfikatu autora dla każdego zatwierdzenia w PR
+- [CLA Portal](https://github.com/vmware/claportal) - Umożliwia przepływ pracy dla autorów, którzy podpisują umowę CLA dotyczącą pull requestów do repozytoriów GitHub. Obsługuje także podpisywanie DCO w commitach.
+- [OSS Contribution Tracker](https://github.com/amzn/oss-contribution-tracker) - Śledź wkład wniesiony do projektów zewnętrznych i zarządzaj CLA
+- [Dr CLA](https://github.com/salesforce/dr-cla) - GitHub bot do czynności z umowami licencyjnymi dla współtwórców
 
-## GitHub Metrics and Dashboards
+## GitHub Metrics oraz Dashboards
 
-- [oss-dashboard](https://github.com/amzn/oss-dashboard) - A dashboard for viewing many GitHub organizations, and/or users, at once.
-- [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker is an application that collects information about a Github organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
-- [ghcrawler](https://github.com/microsoft/ghcrawler) - GHCrawler is a GitHub API crawler that crawls a GitHub-hosted project and automatically tracks, retrieves, and stores its contents. GHCrawler is primarily intended for people trying to track sets of organizations and data repositories.
-- [devstats](https://github.com/cncf/devstats) - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes
-- [MeasureOSS](https://github.com/MeasureOSS/Measure) - A contributor relationship management system
-- [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation
+- [oss-dashboard](https://github.com/amzn/oss-dashboard) - Pulpit do przeglądania wielu organizacji GitHub i/lub użytkowników jednocześnie.
+- [osstracker](https://github.com/Netflix/osstracker) - OSS Tracker to aplikacja, która zbiera informacje o organizacji Github i agreguje dane we wszystkich projektach w tej organizacji w jednym interfejsie użytkownika, z którego mogą korzystać różne role w organizacji będącej właścicielem.
+- [ghcrawler](https://github.com/microsoft/ghcrawler) - GHCrawler jest crawlerem GitHub API, który indeksuje projekt hostowany przez GitHub i automatycznie śledzi, pobiera i przechowuje jego zawartość. GHCrawler jest przeznaczony głównie dla osób próbujących śledzić zbiory organizacji i repozytoriów danych.
+- [devstats](https://github.com/cncf/devstats) - Zestaw narzędzi do wizualizacji archiwów GitHub przy użyciu pulpitów Grafana używanych przez Cloud Native Computing Foundation oraz Kubernetes
+- [MeasureOSS](https://github.com/MeasureOSS/Measure) - System zarządzania relacjami z uczestnikami
+- [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Platforma analityczna rozwoju oprogramowania obsługująca ponad 30 różnych źródeł danych, część projektu CHAOSS Software od The Linux Foundation
 
 ## GitHub Management
 
-- [opensource-portal](https://github.com/Microsoft/opensource-portal) - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
-- [gander](https://github.com/paypal/gander) - Gander is a dashboard to give you usable metrics for a range of open source projects in one quick look. It is designed for individuals who are responsible for running Open Source Offices or keeping track of multiple Open Source projects.
-- [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
-- [GitHub Settings](https://github.com/probot/settings) - uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub
-- [Zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories (from code reviews to necessary files)
-- [FBShipIt](https://github.com/facebook/fbshipit) - A library written in Hack for copying commits from one repository to another.'
-- [Copybara](https://github.com/google/copybara) - A tool for transforming and moving code between repositories.
-- [github org scripts](https://github.com/mozilla/github-org-scripts) - Some helper scripts to manage github orgs via API.
-- [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - A few scripts for managing a Github organization
-- [Automated Github Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) - Host a webpage allow people to click and receive and invite to your Github Organization
-- [Pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo. 
-- [Grit](https://github.com/grailbio/grit) - Grit is a tool to mirror monorepo subtrees to Github
+- [opensource-portal](https://github.com/Microsoft/opensource-portal) - Portal Open Source firmy Microsoft dla GitHub to narzędzie pomagające dużym organizacjom w operacjach zarządzania GitHub, wdrażaniu i nie tylko. Jest zaimplementowany w Node.js.
+- [gander](https://github.com/paypal/gander) - Gander to pulpit, który łatwo dostarcza ci użytecznych wskaźników dla szeregu projektów typu open source. Jest przeznaczony dla osób odpowiedzialnych za prowadzenie biur Open Source lub śledzenie wielu projektów Open Source.
+- [hubcommander](https://github.com/Netflix/hubcommander) - Slack bot do zarządzania organizacją GitHub
+- [GitHub Settings](https://github.com/probot/settings) - używanie .github/config.yml jako źródło prawdy, a wszelkie zmiany tego pliku w domyślnej gałęzi zaktualizują GitHub
+- [Zappr](https://github.com/zalando/zappr) - Agent, który egzekwuje wytyczne dla repozytoriów GitHub (od recenzji kodu po niezbędne pliki)
+- [FBShipIt](https://github.com/facebook/fbshipit) - Biblioteka napisana w Hack do kopiowania commitów z jednego repozytorium do drugiego.
+- [Copybara](https://github.com/google/copybara) - Narzędzie do przekształcania i przenoszenia kodu między repozytoriami.
+- [github org scripts](https://github.com/mozilla/github-org-scripts) - Niektóre skrypty pomocnicze do zarządzania organizacjami GitHub za pośrednictwem interfejsu API.
+- [github-org-mgmt scripts](https://github.com/bertvv/github-org-mgmt) - Kilka skryptów do zarządzania organizacją Github
+- [Automated Github Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) - Hostuj stronę internetową, aby umożliwić użytkownikom klikanie, odbieranie i zapraszanie do Twojej organizacji GitHub
+- [Pepper](https://github.com/genuinetools/pepper) - Narzędzie do wykonywania akcji (actions) na repozytorium GitHub lub pojedynczym repozytorium. 
+- [Grit](https://github.com/grailbio/grit) - Grit jest narzędziem do lustrzanego poddrzewa pojedynczego repo dla GitHub
 
-## Project Quality
+## Jakość projektu
 
 - [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
 - [RepoLinter](https://github.com/todogroup/repolinter) - Lint open source repositories for common issues.
@@ -92,17 +92,17 @@ Ta lista identyfikuje pakiety i projekty, które zostały zbudowane przez człon
 - [zanata](https://github.com/zanata/zanata-platform) - Zanata is a web-based system for translators to translate documentation and software online using a web browser.
 - [Weblate](https://weblate.org/) - Weblate is a free web-based translation management system.
 
-## Websites and Documentation
+## Strony internetowe i dokumentacja
 
 - [Docusaurus](https://docusaurus.io) - Docusaurus is a React-based static site generator, specifically developed to more easily help create and maintain open source websites.
 - [GatsbyJS](https://www.gatsbyjs.org/) - Gatsby is a site generator that allows you to build fast websites and apps with React.
 - [VuePress](https://vuepress.vuejs.org/) - VuePress is a minimalistic Vue-based static site generator, optimized for writing technical documentation.
 
-## Security
+## Bezpieczeństwo
 
 - [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
 
-# License
+# Licencja
 
 [![License: CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2018
 
