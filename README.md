@@ -1,6 +1,6 @@
 # Lista niesamowitych narzędzi do zarządzania programami Open Source - Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Ta lista zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
+Lista ta zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
 
 ## Zawartość
 * [Code Reviews - Przegląd kodu](#code-reviews-przegląd-kodu)
@@ -42,7 +42,7 @@ Ta lista zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały z
 - [MeasureOSS](https://github.com/MeasureOSS/Measure) - System zarządzania relacjami z uczestnikami
 - [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Platforma analityczna rozwoju oprogramowania obsługująca ponad 30 różnych źródeł danych, część projektu CHAOSS Software od The Linux Foundation
 
-## GitHub Management
+## Zarządzanie GitHub
 
 - [opensource-portal](https://github.com/Microsoft/opensource-portal) - Portal Open Source firmy Microsoft dla GitHub to narzędzie pomagające dużym organizacjom w operacjach zarządzania GitHub, wdrażaniu i nie tylko. Jest zaimplementowany w Node.js.
 - [gander](https://github.com/paypal/gander) - Gander to pulpit, który łatwo dostarcza ci użytecznych wskaźników dla szeregu projektów typu open source. Jest przeznaczony dla osób odpowiedzialnych za prowadzenie biur Open Source lub śledzenie wielu projektów Open Source.
@@ -69,7 +69,7 @@ Ta lista zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały z
 
 - [OpenChain Conformance](https://certification.openchainproject.org) - The OpenChain Specification is a way for companies using Free/Libre and Open Source Software (FLOSS) to show that they meet the key requirements for quality compliance programs. Companies can voluntarily self-certify, at no cost, by using this web application.
 
-## Licensing
+## Licencje
 
 - [SPDX](https://spdx.org) - Set of standards for communicating the components, licenses and copyright associated with a software package.
 - [LicenseFinder](https://github.com/pivotal-legacy/LicenseFinder) - Find licenses for your project's dependencies
@@ -87,20 +87,20 @@ Ta lista zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały z
 - [dpkg-licenses](https://github.com/daald/dpkg-licenses) - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
 - [FOSSID](https://fossid.com) - A comprehensive commercial scanner for licenses and vulnerabilities.  Knowledgebase covers 78M+ repositories and 600B+ snippets. Includes detailed snippet scanning to detect the license on fragments and copied/pasted code, even if the open source license is not explicitly or correctly declared.
 
-## Localization and Internationalization
+## Localization oraz Internationalization
 
-- [zanata](https://github.com/zanata/zanata-platform) - Zanata is a web-based system for translators to translate documentation and software online using a web browser.
-- [Weblate](https://weblate.org/) - Weblate is a free web-based translation management system.
+- [zanata](https://github.com/zanata/zanata-platform) - Zanata to internetowy system dla tłumaczy, którzy tłumaczą dokumentację i oprogramowanie online za pomocą przeglądarki internetowej.
+- [Weblate](https://weblate.org/) - Weblate to bezpłatny internetowy system zarządzania tłumaczeniami.
 
 ## Strony internetowe i dokumentacja
 
-- [Docusaurus](https://docusaurus.io) - Docusaurus is a React-based static site generator, specifically developed to more easily help create and maintain open source websites.
-- [GatsbyJS](https://www.gatsbyjs.org/) - Gatsby is a site generator that allows you to build fast websites and apps with React.
-- [VuePress](https://vuepress.vuejs.org/) - VuePress is a minimalistic Vue-based static site generator, optimized for writing technical documentation.
+- [Docusaurus](https://docusaurus.io) - Docusaurus to oparty na React generator witryn statycznych, opracowany specjalnie w celu łatwiejszego tworzenia i utrzymywania witryn typu open source.
+- [GatsbyJS](https://www.gatsbyjs.org/) - Gatsby to generator witryn, który umożliwia tworzenie szybkich witryn i aplikacji z React.
+- [VuePress](https://vuepress.vuejs.org/) - VuePress to minimalistyczny generator strony statycznej oparty na Vue, zoptymalizowany do pisania dokumentacji technicznej.
 
 ## Bezpieczeństwo
 
-- [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool helps to discover, assess and mitigate known vulnerabilities in Java and Python projects.
+- [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool) - The Vulnerability Assessment Tool pomaga odkrywać, oceniać i łagodzić znane luki w projektach Java i Python.
 
 # Licencja
 
