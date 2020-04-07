@@ -3,7 +3,7 @@
 Lista ta zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
 
 ## Zawartość
-* [Code Reviews - Przegląd kodu](#code-reviews-przegląd-kodu)
+* [Code Reviews - Przegląd kodu](#code-reviews---przegl%C4%85d-kodu)
 * [Contributor License Agreements](#contributor-license-agreements)
 * [GitHub Metrics oraz Dashboards](#github-metrics-oraz-dashboards)
 * [Zarządzanie GitHub](#zarządzanie-github)
@@ -11,7 +11,7 @@ Lista ta zebrała w sobie wyselekcjonowane pakiety i projekty, które zostały z
 * [Supply Chain Trust](#supply-chain-trust)
 * [Licencje](#licencje)
 * [Localization oraz Internationalization](#localization-oraz-internationalization)
-* [Strony i dokumentacja](#strony-i-dokumentacja)
+* [Strony i dokumentacja](#strony-internetowe-i-dokumentacja)
 * [Licencja](#licencja)
 * [Bezpieczeństwo](#bezpieczeństwo)
 
