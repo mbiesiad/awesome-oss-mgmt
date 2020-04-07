@@ -61,7 +61,7 @@ Lista zawiera w sobie wyselekcjonowane pakiety i projekty, które zostały zbudo
 
 - [CII Best Practices Badging](https://bestpractices.coreinfrastructure.org/) - The Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice.
 - [RepoLinter](https://github.com/todogroup/repolinter) - Lint open source repositories for common issues.
-  - [RepoLinter Dashboard](https://github.com/todogroup/repolinter-dashboard) - A Dashboard for RepoLinter
+- [RepoLinter Dashboard](https://github.com/todogroup/repolinter-dashboard) - A Dashboard for RepoLinter
 - [Linguist](https://github.com/github/linguist) - Identify the programming languages used in a project.
 - [repo-scaffolding](https://github.com/twitter/repo-scaffolding) - Scaffolding tools for creating and maintaining projects based on Twitter Open Source standards and best practices.
 
@@ -91,6 +91,9 @@ Lista zawiera w sobie wyselekcjonowane pakiety i projekty, które zostały zbudo
 
 - [zanata](https://github.com/zanata/zanata-platform) - Zanata to internetowy system dla tłumaczy, którzy tłumaczą dokumentację i oprogramowanie online za pomocą przeglądarki internetowej.
 - [Weblate](https://weblate.org/) - Weblate to bezpłatny internetowy system zarządzania tłumaczeniami.
+- [Crowdin](https://crowdin.com/)
+- [Transifex](https://www.transifex.com/)
+- [Locale](https://www.localeapp.com/)
 
 ## Strony internetowe i dokumentacja
 
