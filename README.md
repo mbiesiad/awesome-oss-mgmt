@@ -1,7 +1,6 @@
 # Awesome OSS Management [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This list identifies packages and projects that have been built by TODO Group
-members or found helpful for managing open source projects and offices.
+Ta lista identyfikuje pakiety i projekty, które zostały zbudowane przez członków Grupy TODO lub uznane za pomocne w zarządzaniu projektami i biurami typu open source.
 
 ## Contents
 * [Code Reviews](#code-reviews)
@@ -106,3 +105,6 @@ members or found helpful for managing open source projects and offices.
 # License
 
 [![License: CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) © Contributors 2016-2018
+
+____________________________________
+Stworzone przez @[todogroup](https://github.com/todogroup/) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
